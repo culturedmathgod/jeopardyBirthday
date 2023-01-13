@@ -23,34 +23,34 @@ const topics: Question[] = [
   {
     topic: "TOPIC 1",
     questions: [
-      { name: "STARTS WITH Y" },
+      { name: "SPORTY MATH" },
       {
-        name: "This former 8x NBA All-Star player is known for being one of the tallest players in the league",
+        name: "Points for a touchdown divided by points for a slam dunk",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "This web service provider was one of the pioneers of the early Internet era in the 1990s",
+        name: "Majors in golf times majors in tennis",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "Western asian country bordering Saudi Arabia and Oman",
+        name: "Shortest olympic swmmming distance plus soccer penalty area distance in yards",
         value: "$600",
         drink: "6 Shots",
+        isComplete: false,
+      },
+      {
+        name: "Qualifying teams to the group stage in the World Cup plus qualifying teams to the group stage to worlds for League of Legends",
+        value: "$800",
+        drink: "8 Shots",
         isComplete: false,
         isDailyDouble: true,
       },
       {
-        name: "Not to be mistaken with bees, these critters prefer to feed on insects rather than pollen",
-        value: "$800",
-        drink: "8 Shots",
-        isComplete: false,
-      },
-      {
-        name: `French designer credited for introducing the "Le Smoking" tuxedo suit for women`,
+        name: "Baseball roster size minus feathers in a shuttlecock",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -60,33 +60,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 2",
     questions: [
-      { name: "24" },
+      { name: "2022" },
       {
-        name: "24 seconds is the time a team may posses the ball before attempting to score in this sport",
+        name: "This eccentric billionaire bought this tech company for 44 billion dollars, sporting larry the bird as its iconic logo",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "If 24 hours makes up a day, this amount of hours makes up a week",
+        name: "going public in 1980, this tech company is the first ever to achieve a 3 trillion dollar valuation through its ability to think differently",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "Avacodos, rice, and grasshoppers all have 24 of these thread-like structures",
+        name: "declared time person of the year in 2022, this first term president is currently at war with the largest country",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "This 24 faced, 4 dimensional cube has been used in popular films such as Interstellar and the MCU",
+        name: "36 years between sequels, this film grossed the second most worldwide",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: "This two player board game has players starting at the 24-point position",
+        name: "the longest reign of any british monarch, owned by queen elizabeth II after her passing",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -96,33 +96,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 3",
     questions: [
-      { name: "6 LETTER WORDS" },
+      { name: "STARTS WITH MAN" },
       {
-        name: `From old French meaning "to dine", it's the chief meal of the day`,
+        name: "To take care of one's business. To succeed in attaining one's goals",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "It's the club-shaped tool used to pound substances in a mortar",
+        name: "an aspirational endeavor that tends to go nowhere, much like its show on netflix",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: `To rot, or the uncle on "The Addams Family"`,
+        name: "Read from right to left",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "This lighter-than-air element only rose to #2 on the periodic chart",
+        name: "What you do when caught in a lie. Requiring skill and care",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: "This disease caused by a lack of vitamin C is characterized by bleeding gums & extreme weakness",
+        name: "Lifting weights, eating big, becoming educated",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -132,34 +132,34 @@ const topics: Question[] = [
   {
     topic: "TOPIC 4",
     questions: [
-      { name: "WORDS IN BIRTHDAY" },
+      { name: "VIDEO GAMES" },
       {
-        name: "opposite of messy",
+        name: "Tennis, Baseball, Bowling, Golf, Boxing",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "cows, buffaloes, goats, sheeps and camels all provide this",
+        name: "in this game you first receive a small fishing net on its tutorial island",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "where my deepest darkest secrets lie",
+        name: "at 2 stars the cops shoot to kill. at 4, expect the SWAT team",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "a lot of head",
+        name: "800 points if you do it once, 1200 points if you do it back to back. 2 controls are all you need",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
         isDailyDouble: true,
       },
       {
-        name: "a mix of two",
+        name: "in 2020, it was time to find 'new horizons' and build your own island paradise with this switch game",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -169,33 +169,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 5",
     questions: [
-      { name: "MOVIE TITLE MATH" },
+      { name: "WORDS IN GAMES NIGHT" },
       {
-        name: "The _ year-old-virgin minus fantastic _",
+        name: "organized group",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "The magnificent _ plus _ mile",
+        name: "warm result",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "_ shades of grey minus _ years a slave",
+        name: "mythical creature",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "Both in 2012: the _ stooges times _ jump street",
+        name: "complex puzzle",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: "_ first dates times this is _",
+        name: "lawfully confined",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -205,39 +205,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 6",
     questions: [
-      { name: "SONG LYRICS" },
+      { name: "STUPID ANSWERS" },
       {
-        name: "21, can you do somethin' for me?",
+        name: "In the 'Shrek' movies, it's the name of the donkey voiced by eddie murphy",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: `Riding on a horse, ha
-      You can whip your Porsche`,
+        name: "In this 1997 film jack nicholson asks a group of psychiatric patients, “What if this is as good as it gets?”",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: `People always told me be careful of what you do
-      And don't go around breaking young girls' hearts`,
+        name: "Before co-starring in 'Get Out', allison williams played one of the girls on this hbo series",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: `There she stood in the doorway
-      I heard the mission bell
-      And I was thinking to myself
-      "This could be Heaven or this could be Hell"`,
+        name: "Launched in 1990 this weekly magazine from Time Inc. covers all aspects of the entertainment industry",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: `Away above the chimney tops
-      That's where you'll find me`,
+        name: "Sometimes you have to peel cheese off this shovel-like implement used to place pizza in & out of an oven",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
