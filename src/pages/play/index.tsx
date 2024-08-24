@@ -23,34 +23,34 @@ const topics: Question[] = [
   {
     topic: "TOPIC 1",
     questions: [
-      { name: "SPORTY MATH" },
+      { name: "ABOVE BOARD" },
       {
-        name: "Points for a touchdown divided by points for a slam dunk",
+        name: "Coming in white, green, blue, pink and yellow out of the bag, put these on your birds for bigger scores",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "Majors in golf times majors in tennis",
+        name: "Whether you're making a move, or actually about to win, commit all of these - and not of the potato variety",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "Shortest olympic swmmming distance plus soccer penalty area distance in yards",
+        name: "When used correctly, this livestock can build habitats, advance your society, or bridge rival colonies",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "Qualifying teams to the group stage in the World Cup plus qualifying teams to the group stage to worlds for League of Legends",
+        name: "An orhpange that any kid would brag about, cardinal directions would barely get you a third of the way there",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
         isDailyDouble: true,
       },
       {
-        name: "Baseball roster size minus feathers in a shuttlecock",
+        name: "Too fantastical for your garden variety card game. Hope that just the right amount of people can read between the lines",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -60,33 +60,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 2",
     questions: [
-      { name: "2022" },
+      { name: "HOOPING" },
       {
-        name: "This eccentric billionaire bought this tech company for 44 billion dollars, sporting larry the bird as its iconic logo",
+        name: "This dish features a savory broth, rice noodles, and often beef or chicken",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "going public in 1980, this tech company is the first ever to achieve a 3 trillion dollar valuation through its ability to think differently",
+        name: "A juniper based liquor",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "declared time person of the year in 2022, this first term president is currently at war with the largest country",
+        name: "This honey lover lives in the Thousand Acre Woods",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "36 years between sequels, this film grossed the second most worldwide",
+        name: "A wellness company and lifestyle brand that wants you to 'Nourish your Inner Aspect'",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: "the longest reign of any british monarch, owned by queen elizabeth II after her passing",
+        name: "Sometimes better kept to yourself, there are endless amounts of these, the extremes of which you generally find online",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -96,33 +96,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 3",
     questions: [
-      { name: "STARTS WITH MAN" },
+      { name: "ONE WORD SPORTS" },
       {
-        name: "To take care of one's business. To succeed in attaining one's goals",
+        name: "Airball",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "an aspirational endeavor that tends to go nowhere, much like its show on netflix",
+        name: "Icing",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "Read from right to left",
+        name: "Dink",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "What you do when caught in a lie. Requiring skill and care",
+        name: "Albatross",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: "Lifting weights, eating big, becoming educated",
+        name: "Panna",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -132,34 +132,34 @@ const topics: Question[] = [
   {
     topic: "TOPIC 4",
     questions: [
-      { name: "VIDEO GAMES" },
+      { name: "FORMULAIC" },
       {
-        name: "Tennis, Baseball, Bowling, Golf, Boxing",
+        name: "M1 * V1 = M2 * V2",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "in this game you first receive a small fishing net on its tutorial island",
+        name: "z = a + bi",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "at 2 stars the cops shoot to kill. at 4, expect the SWAT team",
+        name: "A + B = B + A",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "800 points if you do it once, 1200 points if you do it back to back. 2 controls are all you need",
+        name: "E = MC^2",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
         isDailyDouble: true,
       },
       {
-        name: "in 2020, it was time to find 'new horizons' and build your own island paradise with this switch game",
+        name: "F = -KX",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -169,33 +169,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 5",
     questions: [
-      { name: "WORDS IN GAMES NIGHT" },
+      { name: "ROTTEN BUT GOOD" },
       {
-        name: "organized group",
+        name: "57% on RT. Are you username LadiesMan217? Where is the eBay item 21153?",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "warm result",
+        name: "79% on RT. Are you the billionaire owner of Apple? No. Okay, in that case you got no right to wear NB sneakers, ever.",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "mythical creature",
+        name: "37% on RT. Do you know what D.K. means? Donkey Kong?",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "complex puzzle",
+        name: "62% on RT. 50 million dollars? Who do you think you have, Chelsea Clinton?",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: "lawfully confined",
+        name: "71% on RT. You think Einstein walked around thinkin' everyone was a bunch of dumb shits? Now you know why he helped build that bomb.",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,
@@ -205,33 +205,33 @@ const topics: Question[] = [
   {
     topic: "TOPIC 6",
     questions: [
-      { name: "STUPID ANSWERS" },
+      { name: "WHO SAID IT" },
       {
-        name: "In the 'Shrek' movies, it's the name of the donkey voiced by eddie murphy",
+        name: "I'm trying to do more cardio",
         value: "$200",
         drink: "2 Shots",
         isComplete: false,
       },
       {
-        name: "In this 1997 film jack nicholson asks a group of psychiatric patients, “What if this is as good as it gets?”",
+        name: "Have you ever thought about training your neck?",
         value: "$400",
         drink: "4 Shots",
         isComplete: false,
       },
       {
-        name: "Before co-starring in 'Get Out', allison williams played one of the girls on this hbo series",
+        name: "I'm kinda down to play Wingspan",
         value: "$600",
         drink: "6 Shots",
         isComplete: false,
       },
       {
-        name: "Launched in 1990 this weekly magazine from Time Inc. covers all aspects of the entertainment industry",
+        name: "You're only allowed to play pickleball if you're 60 plus",
         value: "$800",
         drink: "8 Shots",
         isComplete: false,
       },
       {
-        name: "Sometimes you have to peel cheese off this shovel-like implement used to place pizza in & out of an oven",
+        name: "Our team just doesn't have enough spacing. Nobody is ever open.",
         value: "$1000",
         drink: "10 Shots",
         isComplete: false,

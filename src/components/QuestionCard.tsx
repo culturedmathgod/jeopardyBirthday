@@ -48,7 +48,7 @@ export const QuestionCard: React.FC<QuestionCard> = (props) => {
           <span className="text-shadow-md my-4 text-[70px] font-bold leading-[70px] text-[#d69f4c]">
             {value}
           </span>
-          <span className="text-shadow text-[20px] text-white">{drink}</span>
+          {/* <span className="text-shadow text-[20px] text-white">{drink}</span> */}
         </div>
       )}
     </>
